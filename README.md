@@ -1,4 +1,4 @@
-# Notes---Webapp
+## NotesBuddy - Flask based notes storing webapplication
 
 
 Simple notes application with login and signup to store notes.
