@@ -2,7 +2,7 @@
 
 A simple, secure web-based note-taking application built with Flask. Create, manage, and organize your personal notes with user authentication and a clean, responsive interface.
 
-## Demo Link : [NotesBuddy](http://vinayghate.pythonanywhere.com/sign-up)
+## Demo Link : [NotesBuddy](https://notesbuddy-1-v6ew.onrender.com)
 
 ## Features
 
