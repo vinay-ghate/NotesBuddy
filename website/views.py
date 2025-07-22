@@ -35,3 +35,10 @@ def delete_note():
             db.session.commit()
 
     return jsonify({})
+
+
+@views.route('/checkHealth', methods=['GET'])
+def checkHealth():
+    return {"Status":"Live"}
+
+
